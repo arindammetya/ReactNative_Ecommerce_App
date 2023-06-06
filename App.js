@@ -4,6 +4,7 @@ import AppNavigator from './Src/AppNavigator/AppNavigator'
 import { Provider } from 'react-redux'
 import Home from './Src/Screens/Home'
 import Store from './Src/Redux/Store/Store'
+//test
 
 const App = () => {
   return (
